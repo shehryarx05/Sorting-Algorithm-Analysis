@@ -3,11 +3,11 @@ This Repository Contains The Code And Data Used In My Experimental Study Compari
 
 Contents
 
-sorting_test.py — Sorting Functions And Timing Logic + Data Generation
+sorting_test.py: Sorting Functions And Timing Logic + Data Generation
 
-multiple_trials.py — Averaged Execution Times
+multiple_trials.py: Averaged Execution Times
 
-data.json — Recorded Execution Times From Experimental Runs
+data.json: Recorded Execution Times From Experimental Runs
 
 How To Run
 
