@@ -14,3 +14,9 @@ How To Run
 Install Python 3.10+ And Run:
 
 sorting_test.py First Then Run multiple_trials.py. This Would Create A Data Folder With Graphs And Another Folder With A Json File.
+
+Citation
+
+If You Use This Code Or Reference This Work, Please Cite The Zenodo DOI Below:
+
+Khan, Shehryar Ahmed (2025). Comparative Analysis Of Sorting Algorithm Speeds And Efficiency. Zenodo. DOI: 10.5281/zenodo.17655387
