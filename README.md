@@ -8,3 +8,9 @@ sorting_test.py — Sorting Functions And Timing Logic + Data Generation
 multiple_trials.py — Averaged Execution Times
 
 data.json — Recorded Execution Times From Experimental Runs
+
+How To Run
+
+Install Python 3.10+ And Run:
+
+sorting_test.py First Then Run multiple_trials.py. This Would Create A Data Folder With Graphs And Another Folder With A Json File.
