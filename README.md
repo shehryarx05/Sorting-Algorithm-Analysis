@@ -1,0 +1,10 @@
+
+This Repository Contains The Code And Data Used In My Experimental Study Comparing The Practical Performance Of Four Sorting Algorithms: Bubble Sort, Selection Sort, Insertion Sort, And Merge Sort. The Codes Generate Random Datasets, Measure Execution Times Across Increasing Input Sizes, And Produce The Results Shown In My Research Paper.
+
+Contents
+
+sorting_test.py — Sorting Functions And Timing Logic + Data Generation
+
+multiple_trials.py — Averaged Execution Times
+
+data.json — Recorded Execution Times From Experimental Runs
