@@ -19,4 +19,4 @@ Citation
 
 If You Use This Code Or Reference This Work, Please Cite The Zenodo DOI Below:
 
-Khan, Shehryar Ahmed (2025). Comparative Analysis Of Sorting Algorithm Speeds And Efficiency. DOI: 10.5281/zenodo.17667562
+Khan, Shehryar Ahmed (2025). Comparative Analysis Of Sorting Algorithm Speeds And Efficiency. DOI: https://doi.org/10.5281/zenodo.17667562
